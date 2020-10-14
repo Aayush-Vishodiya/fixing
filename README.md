@@ -1,2 +1,2 @@
 # fixing
-i  am trying  to fix some error
+ it is my computer repository i  am trying  to fix some error
